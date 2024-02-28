@@ -1,0 +1,15 @@
+body{
+    background-color: lightcoral;/*background-color sirve para el color de fondo*/
+    }
+    h1{
+        background-color: brown;
+        color: azure;/*color es para aplicar color al texto*/
+    }
+    h2{
+        font-size: 20px;
+        background-color: darkgreen;
+        color: azure;
+    }
+    i{
+        color:blue;
+    }
